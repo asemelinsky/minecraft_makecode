@@ -1,3 +1,11 @@
+## Файли для швидкої перевірки в Minecraft Education
+
+Проєкти лежать у теці `mkcd/`. Як відкрити: Code Builder → MakeCode → **Import** → **Import File** → вибрати файл.
+
+| Проєкт | Файл |
+|---|---|
+| Крамниця за бали | [01-kramnytsia.mkcd](https://github.com/asemelinsky/minecraft_makecode/raw/master/mkcd/01-kramnytsia.mkcd) |
+
 
 > Open this page at [https://asemelinsky.github.io/minecraft_makecode/](https://asemelinsky.github.io/minecraft_makecode/)
 
